@@ -1,2 +1,1 @@
-# Henry-curso-preparatorio-con-readme
-Repositorio de prueba de módulo 2 
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde GitHub a mi repositorio local.
